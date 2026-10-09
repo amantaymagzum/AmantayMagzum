@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Makko — Game Developer</title><desc id="desc">Dark pixel-inspired banner. Unity, C sharp, 2D and 3D. Astana, Kazakhstan.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#232735" stroke-width="1"/></pattern></defs>
+<rect width="1200" height="380" rx="18" fill="#10121b"/><rect width="1200" height="380" rx="18" fill="url(#grid)"/>
+<path d="M40 50V32H58M1142 32H1160V50M40 330V348H58M1142 348H1160V330" fill="none" stroke="#b7ff59" stroke-width="3"/>
+<rect x="76" y="68" width="10" height="10" fill="#b7ff59"/>
+<text x="100" y="79" fill="#b7ff59" font-family="monospace" font-size="15" letter-spacing="3">PLAYER / DEVELOPER</text>
+<text x="70" y="202" fill="#f0f2fa" font-family="monospace" font-weight="bold" font-size="100" letter-spacing="-5">MAKKO</text>
+<text x="77" y="246" fill="#b5b9ca" font-family="monospace" font-size="20">Unity / C# / 2D &amp; 3D</text>
+<text x="77" y="308" fill="#83899e" font-family="monospace" font-size="14" letter-spacing="2">AMANTAY MAGZUM · ASTANA, KZ</text>
+<g transform="translate(805 90)" fill="#b7ff59">
+<path d="M40 0H160V20H180V40H200V120H180V140H160V160H40V140H20V120H0V40H20V20H40Z" fill="#1d2930" stroke="#34493b" stroke-width="2"/>
+<path d="M40 60H60V40H80V60H100V80H80V100H60V80H40Z"/>
+<rect x="140" y="50" width="20" height="20"/><rect x="160" y="80" width="20" height="20" fill="#9f87ff"/>
+<rect x="70" y="180" width="60" height="6" fill="#9f87ff"/>
+</g><text x="805" y="308" fill="#83899e" font-family="monospace" font-size="14" letter-spacing="2">BUILD. PLAY. ITERATE.</text>
+</svg>
