@@ -14,6 +14,12 @@ I make 2D and 3D games with **Unity and C#**. I use **Blender** and **Aseprite**
 
 This is where I'm bringing together my older games and new projects: code, playable builds, and a look at how they work.
 
+### Featured project
+
+**[NIS-GameCenter](https://github.com/amantaymagzum/NIS-GameCenter)** — a browser-based 2D game editor for teaching game development to 7th-grade students. JavaScript scripting, a component-based scene editor, and 10 illustrated lessons with practical tasks.
+
+[Try it in your browser](https://amantaymagzum.github.io/NIS-GameCenter/) · [Explore the code](https://github.com/amantaymagzum/NIS-GameCenter)
+
 ### My toolkit
 
 | Code & gameplay | Art & animation |
